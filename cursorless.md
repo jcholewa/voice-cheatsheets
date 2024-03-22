@@ -7,11 +7,11 @@
 
 - Selecting and deselecting
     - select a function - take funk \[gust\]
-    - select the block you're in - take block.
+    - select the block you're in - take block
     - select line containing specified token - take line \[red gust\]
     - select from the cursor to the start/end of the line - take head/tail
-    - selects from the mark to the start or end of the line - take head air/take tail air
-    - expand from the mark back forwards or backwards to include all adjacent non whitespace characters - take paint red gust
+    - selects from the mark to the start or end of the line - take head \[air\]/take tail \[air\]
+    - expand from the mark back forwards or backwards to include all adjacent non whitespace characters - take paint \[red gust\]
     - deselect the given target - give
 
 - Copying and cloning
