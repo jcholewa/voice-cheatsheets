@@ -1,0 +1,8 @@
+- Customising
+    - add new words to the dictionary - customize additional words
+    - customize websites to open - customize websites
+    - customize the alphabet words - customize alphabet
+- open a customized website - open \[website\]
+- choose and select x item in dropdown list - drop down \[x\]
+- show information for related commands - help search \[word\] e.g. help search select
+- search for a word in vscode - hunt all \[word\] e.g. hunt all hello

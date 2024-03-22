@@ -1,0 +1,5 @@
+- open keyboard shortcuts - question mark
+- next column - near
+- previous column - pit
+- next ticket down in column - jury
+- next ticket up in column - crunch
