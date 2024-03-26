@@ -48,7 +48,7 @@
     - rename the end of a function name starting from x word - rename last \[two\] words \[funk name\]
 
 - Formatting
-    - apply formatting to a token - form \[title\] at \[air\]
+    - apply formatting to a token - format \[title\] at \[air\]
     - formatting terminator - \[snake\] this is a test over \[dot\] ts
     - delete a sentence and rewrite it with the formatter you specify - nope that was \[formatter\]
     - make a token lowercase - format all down at \[token\]
