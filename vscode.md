@@ -18,3 +18,4 @@
 - show the shortcuts - command crunch command red
 - open the command palette - command shift pit
 - open search for your vscode folders - control red
+- show hidden folders when opening a folder - command shift dot
