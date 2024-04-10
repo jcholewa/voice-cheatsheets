@@ -19,3 +19,4 @@
 - open the command palette - command shift pit
 - open search for your vscode folders - control red
 - show hidden folders when opening a folder - command shift dot
+- open a new window (to open a new product while keeping the existing one open) - command shift near

@@ -38,6 +38,7 @@
 
 - Swapping
     - swap two targets - swap \[blue air\] with \[green bat\]
+    - swap two function calls with their arguments - swap call \[blue air\] with \[green bat\] or swap arg \[blue air\] with \[green bat\]
 
 - Inserting
     - insert a function snippet - snippet funk \[.hello world\]
