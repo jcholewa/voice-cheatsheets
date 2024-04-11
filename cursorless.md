@@ -1,6 +1,11 @@
 - General
     - show cursorless sidebar - cursorless bar
     - open the documentation in chrome - cursorless help
+    
+- Searching
+    - search the document for a target - scout [target]
+    - search the workspace for a target - scout all [target]
+    - search the workspace for the highlighted target - scout all this
 
 - Commenting
     - comment a line - comment down/up \[line number\]
