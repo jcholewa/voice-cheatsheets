@@ -1,6 +1,6 @@
 https://slack.com/intl/en-gb/help/articles/201374536-Slack-keyboard-shortcuts
 
-Navigating
+- Navigating
     - jump to previous unread channel or direct message - option shift up or down
     - navigate to the next channel - option up or down
     - switch between spaces (OVO/Talon) - command 1/2
@@ -10,7 +10,7 @@ Navigating
     - open the threads view - shift command trap
     - go back/forward in history - command left square / command right square
 
-Messaging
+- Messaging
     - react to last message/message with focus - shift command backslash
     - when focused on the message:
         - edit your own message - each
@@ -18,15 +18,15 @@ Messaging
         - add an emoji reaction - red
         - open a thread - trap    
     
-Messaging - Editing
+- Messaging - Editing
     - make the selected text code - command shift cap
     - make the selected text a code block - command alt shift cap
     - create a new line - shift enter
 
-Help
+- Help
     - show list of shortcuts - command slash
 
-Other
+- Other
     - search - command gust
     - change the focus - F6
     - hide the left sidebar - command shift drum
