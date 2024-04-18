@@ -1,6 +1,7 @@
 - General
     - show cursorless sidebar - cursorless bar
     - open the documentation in chrome - cursorless help
+    - collapse/un collapse a block - fold/unfold \[target\]
     
 - Searching
     - search the document for a target - scout [target]
@@ -18,6 +19,8 @@
     - selects from the mark to the start or end of the line - take head \[air\]/take tail \[air\]
     - expand from the mark back forwards or backwards to include all adjacent non whitespace characters - take paint \[red gust\]
     - deselect the given target - give
+    - select every instance of target - take every instance \[target\] e.g. take every instance dash
+    - select multiple targets at once - take \[target\] and \[target\]
 
 - Copying and cloning
     - copy from the second word to the end of the line - copy tail line second token
@@ -41,6 +44,9 @@
     - move the cursor after the closest pair - post pair
     - go to the function being called - follow \[func name\]
 
+- Scrolling
+    - scroll the target to the top/centre/bottom - crown/centre/bottom \[target\]
+
 - Swapping
     - swap two targets - swap \[blue air\] with \[green bat\]
     - swap two function calls with their arguments - swap call \[blue air\] with \[green bat\] or swap arg \[blue air\] with \[green bat\]
@@ -52,6 +58,13 @@
 
 - Editing
     - rename the end of a function name starting from x word - rename last \[two\] words \[funk name\]
+    
+- Wrapping (see also https://www.cursorless.org/docs/#paired-delimiters)
+    - surround the line/target with single quotes - twin wrap line/target
+    - surround the line/target with brackets/square brackets/curly brackets - round/box/curly wrap line/\[target\]
+    - rewrap a target with different pair of symbols - \[curly\] repack 
+    \[token\]
+    - wrap with an escape - escaped \[box\] wrap line/target
 
 - Formatting
     - apply formatting to a token - format \[title\] at \[air\]
