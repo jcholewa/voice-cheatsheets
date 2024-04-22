@@ -8,3 +8,4 @@
 - show information for related commands - help search \[word\] e.g. help search select
 - search for a word in vscode - hunt all \[word\] e.g. hunt all hello
 - open the talon log - talon open log
+- open list of currently running apps, with the names you can refer to them with - running list

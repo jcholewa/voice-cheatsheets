@@ -12,8 +12,13 @@
     - open search for your vscode folders - control red
     
 - Terminal
-    - focus the terminal - control backtick
-    - open a second terminal window next to the first - command backslash
+    - focus the terminal - control backtick or terminal toggle
+    - open a second terminal window next to the first - command backslash or terminal split
+    - open a new terminal window - terminal new
+    - open a new terminal window externally - terminal external
+    - cycle through open terminal windows - terminal next/last
+    - switch to a particular terminal window - terminal [number]
+    - kill a terminal window - terminal trash
     - open command history - control red
 
 - Searching
