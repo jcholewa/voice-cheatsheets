@@ -1,6 +1,8 @@
 Tabs - Opening/Switching
   - switch to another scroll - go tab / slot [letter]
   - open hint in the same tab - flick [bat harp]
+  - move the current tab to a new window - tab split
+  - duplicate the current tab - tab clone
 
 Tabs - Closing
   - close all the tabs except the current one - tab close other
