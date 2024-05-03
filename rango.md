@@ -26,4 +26,4 @@ Copying
 
 Hovering
   - hover over an element - hover [target]
-  - clear a previously hover event/remove the focus from a focus element - dismiss
+  - clear a previous hover event/remove the focus from a focus element - dismiss

@@ -3,9 +3,14 @@
     - customize websites to open - customize websites
     - customize the alphabet words - customize alphabet
 
+- Text editing
+    - insert multiple quote or double quote marks - quote [number] e.g. quote third, dub quote [number]
+    - capitalise the selected word - title that
+
 - open a customized website - open \[website\]
 - choose and select x item in dropdown list - drop down \[x\]
 - show information for related commands - help search \[word\] e.g. help search select
-- search for a word in vscode - hunt all \[word\] e.g. hunt all hello
 - open the talon log - talon open log
 - open list of currently running apps, with the names you can refer to them with - running list
+- hold down the mouse button to drag - drag
+- finished dragging the mouse button - drag end

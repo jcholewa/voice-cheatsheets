@@ -10,6 +10,8 @@
 
 - Commenting
     - comment a line - comment down/up \[line number\]
+    - comment multiple lines - comment two lines [target] and [target]
+    - of two lines, reverse which one is commented out - comment line [target] and [target]
 
 - Selecting and deselecting
     - select a function - take funk \[gust\]
@@ -17,7 +19,7 @@
     - select line containing specified token - take line \[red gust\]
     - select from the cursor to the start/end of the line - take head/tail
     - selects from the mark to the start or end of the line - take head \[air\]/take tail \[air\]
-    - expand from the mark back forwards or backwards to include all adjacent non whitespace characters - take paint \[red gust\]
+    - expand from the mark forwards or backwards to include all adjacent non whitespace characters - take paint \[red gust\]
     - deselect the given target - give
     - select every instance of target - take every instance \[target\] e.g. take every instance dash
     - select multiple targets at once - take \[target\] and \[target\]
@@ -71,3 +73,6 @@
     - formatting terminator - \[snake\] this is a test over \[dot\] ts
     - delete a sentence and rewrite it with the formatter you specify - nope that was \[formatter\]
     - make a token lowercase - format all down at \[token\]
+
+- Moving text
+    - move an item after a target - move item [target] after [target]
