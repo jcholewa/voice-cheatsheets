@@ -7,6 +7,10 @@
     - insert multiple quote or double quote marks - quote [number] e.g. quote third, dub quote [number]
     - capitalise the selected word - title that
 
+- Help
+    - open list of available apps - help active
+    - view list of commands for an app within help active - help [number]
+
 - open a customized website - open \[website\]
 - choose and select x item in dropdown list - drop down \[x\]
 - show information for related commands - help search \[word\] e.g. help search select
