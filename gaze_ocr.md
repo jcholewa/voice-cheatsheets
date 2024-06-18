@@ -1,2 +1,2 @@
 Copying
-  - copy a phrase - copy scene [apple] through [banana]
+  - copy a phrase - copy seen [apple] through [banana]
