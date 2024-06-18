@@ -33,6 +33,7 @@
 - Deleting
     - delete the contents of the current line without removing the line ending - chuck just line
     - delete line entirely with no blank line remaining - chuck line
+    - delete sentence - chuck sentence
     - delete a character - \[nth\] char \[token\] - e.g. chuck second char air
     - remove leading and trailing space - chuck leading odd and trailing odd
     - change a target (i.e. delete the target and leave the cursor where it used to be) - change \[blue air\]
@@ -45,6 +46,7 @@
     - go to a specific line - go \[line number\]
     - move the cursor after the closest pair - post pair
     - go to the function being called - follow \[func name\]
+    - go to the start of a sentence - pre sentence
 
 - Scrolling
     - scroll the target to the top/centre/bottom - crown/centre/bottom \[target\]

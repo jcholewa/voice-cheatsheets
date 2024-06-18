@@ -6,6 +6,7 @@
 - Text editing
     - insert multiple quote or double quote marks - quote [number] e.g. quote third, dub quote [number]
     - capitalise the selected word - title that
+    - type uppercase followed by lowercase - ship ... sunk ...
 
 - Help
     - open list of available apps - help active
