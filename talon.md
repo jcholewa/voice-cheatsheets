@@ -15,13 +15,13 @@
     - show information for related commands - help search \[word\] e.g. help search select
 
 - Mouse
-    - open list of currently running apps, with the names you can refer to them with - running list
     - hold down the mouse button to drag - drag
     - finish dragging the mouse button - drag end
 
 - Logs and History
     - open the talon log - talon open log
     - open command history - command history
+    - open list of currently running apps, with the names you can refer to them with - running list
 
 - Other
     - choose and select x item in dropdown list - drop down \[x\]
