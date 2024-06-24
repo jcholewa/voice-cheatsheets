@@ -1,6 +1,7 @@
 - Customising
     - add new words to the dictionary - customize additional words
     - customize websites to open - customize websites
+    - open a customized website - open \[website\]
     - customize the alphabet words - customize alphabet
 
 - Text editing
@@ -11,11 +12,16 @@
 - Help
     - open list of available apps - help active
     - view list of commands for an app within help active - help [number]
+    - show information for related commands - help search \[word\] e.g. help search select
 
-- open a customized website - open \[website\]
-- choose and select x item in dropdown list - drop down \[x\]
-- show information for related commands - help search \[word\] e.g. help search select
-- open the talon log - talon open log
-- open list of currently running apps, with the names you can refer to them with - running list
-- hold down the mouse button to drag - drag
-- finished dragging the mouse button - drag end
+- Mouse
+    - open list of currently running apps, with the names you can refer to them with - running list
+    - hold down the mouse button to drag - drag
+    - finish dragging the mouse button - drag end
+
+- Logs and History
+    - open the talon log - talon open log
+    - open command history - command history
+
+- Other
+    - choose and select x item in dropdown list - drop down \[x\]
