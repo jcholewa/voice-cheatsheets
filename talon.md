@@ -12,7 +12,9 @@
 - Help
     - open list of available apps - help active
     - view list of commands for an app within help active - help [number]
+    - view commands for a context - help context [context] e.g. help context slack
     - show information for related commands - help search \[word\] e.g. help search select
+    - list help commands - help help
 
 - Mouse
     - hold down the mouse button to drag - drag
