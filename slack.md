@@ -15,13 +15,15 @@ https://slack.com/intl/en-gb/help/articles/201374536-Slack-keyboard-shortcuts
     - when focused on the message:
         - edit your own message - each
         - delete your own message - delete
-        - add an emoji reaction - red
+        - add an emoji reaction - red / slack react
         - open a thread - trap    
+    
     
 - Messaging - Editing
     - make the selected text code - command shift cap
     - make the selected text a code block - command alt shift cap
     - create a new line - shift enter
+    - insert an emoji - emoji [happy]
 
 - Help
     - show list of shortcuts - command slash
