@@ -20,11 +20,13 @@
     - switch to a particular terminal window - terminal [number]
     - kill a terminal window - terminal trash
     - open command history - control red
+    - copy the output of the last command - command shift up, command vest
 
 - Searching
     - open the search bar - hunt all or bar search
     - open the search bar with particular text - hunt all [text]
     - open the search bar and paste from the clipboard - hunt all paste
+    - open the top search bar to search for actions - command shift pit
 
 - Windows
     - move tab from one side of the split editor to another - control command left/right
