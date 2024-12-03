@@ -1,3 +1,6 @@
+- Useful links
+    - Paired delimiters https://github.com/cursorless-dev/cursorless/tree/main/packages/cursorless-org-docs/src/docs/user/#paired-delimiters40
+
 - General
     - show cursorless sidebar - cursorless bar
     - open the documentation in chrome - cursorless help
@@ -13,11 +16,13 @@
 - Commenting
     - comment a line - comment down/up \[line number\]
     - comment multiple lines - comment two lines [target] and [target]
+    - comment multiple selected lines - comment this
     - of two lines, reverse which one is commented out - comment line [target] and [target]
 
 - Selecting and deselecting
     - select a function - take funk \[gust\]
     - select the block you're in - take block
+    - select the block you're in, stopping at the boundary of a surrounding pair - take short block
     - select line containing specified token - take line \[red gust\]
     - select from the cursor to the start/end of the line - take head/tail
     - selects from the mark to the start or end of the line - take head \[air\]/take tail \[air\]
@@ -25,6 +30,8 @@
     - deselect the given target - give
     - select every instance of target - take every instance \[target\] e.g. take every instance dash
     - select multiple targets at once - take \[target\] and \[target\]
+    - select a range (if the first target is omitted then the start will be the current selection) - take [target] past [target], take past [target], take past end of line, take past start of line, take funk [target] past [target], take past before [target]
+    - select a target and its surrounding paired delimiters - take [box] [target]
 
 - Copying and cloning
     - copy from the second word to the end of the line - copy tail line second token
@@ -43,6 +50,7 @@
     - remove leading and trailing space - chuck leading odd and trailing odd
     - change a target (i.e. delete the target and leave the cursor where it used to be) - change \[blue air\]
     - clear the end of a function name starting from x word - clear last \[two\] words \[funk name\]
+    - remove paired delimiters from a target - chuck bounds \[token\]
 
 - Moving around
     - place the cursor before the given target - pre
