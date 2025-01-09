@@ -43,8 +43,15 @@
     - copy a target to another target position - bring [target] to [value] [red]
 
 - Deleting
+    Lines
     - delete the contents of the current line without removing the line ending - chuck just line
     - delete line entirely with no blank line remaining - chuck line
+    - delete the previous line - chuck previous line
+    - delete the next line - chuck next line
+    - delete the leading line - chuck leading line
+    - delete the trailing line - chuck trailing line
+    - delete a particular row - chuck row [number]
+    Other
     - delete sentence - chuck sentence
     - delete a character - \[nth\] char \[token\] - e.g. chuck second char air
     - remove leading and trailing space - chuck leading odd and trailing odd
